@@ -2,8 +2,8 @@
 # Site
 
 title: AUC students
-url: "http://www.aucstudents.tech/"
-baseurl: "http://www.aucstudents.tech/"
+url: "http://ayman.aucstudents.tech"
+baseurl: "http://ayman.aucstudents.tech"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
