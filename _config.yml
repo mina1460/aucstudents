@@ -2,8 +2,8 @@
 # Site
 
 title: AUC students
-url: "https://brave-submarine.cloudvent.net"
-baseurl: 
+url: "http://ayman.aucstudents.tech/"
+baseurl: "http://ayman.aucstudents.tech/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -14,7 +14,6 @@ description: App marketing template for Jekyll.
 author:
   name: Mina Ashraf
   email: mina146@aucegypt.edu
-  twitter: # twitter username without the @ symbol
 social:
   name: Mina Ashraf
   links:
